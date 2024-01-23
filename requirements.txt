@@ -1,0 +1,4 @@
+Pillow
+ipywidgets
+numpy
+matplotlib
